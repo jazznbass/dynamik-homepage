@@ -8,7 +8,7 @@ toc_label: "Inhalt"
 toc_icon: "file-alt"
 ---
 <aside class="notice--primary">
-<font color="red"> Informationen zum weiteren Verlauf der Studie während der Corona bedingten Schulschließungen in Nordrhein-Westfahlen und Berlin-Brandenburg finden Sie <a href="http://www.kompass-forschung.de/teilnehmende_index/">hier</a>.</font>
+<font color="red">[Hier was sehr aktuelles hinterlegen (z.B. Änderungen wegen Corona etc.]</font>
 </aside>
 <aside class="notice--primary">
 [Hier einen Teaser formulieren]
