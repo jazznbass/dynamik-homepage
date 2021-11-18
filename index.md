@@ -11,13 +11,11 @@ toc_icon: "file-alt"
 <font color="red"> Informationen zum weiteren Verlauf der Studie während der Corona bedingten Schulschließungen in Nordrhein-Westfahlen und Berlin-Brandenburg finden Sie <a href="http://www.kompass-forschung.de/teilnehmende_index/">hier</a>.</font>
 </aside>
 <aside class="notice--primary">
-Kennen Sie das? Einzelne Kinder, mit denen Sie alltäglich in Kontakt stehen, haben Schwierigkeiten beim Lesen oder Rechnen, sind häufig unaufmerksam, traurig, ängstlich, unruhig oder fallen anderweitig im Unterricht auf?
-Sie suchen wie wir nach Möglichkeiten, wie diesen Kindern geholfen und ihnen das Lernen erleichtert werden kann?  
+[Hier einen Teaser formulieren]
 </aside>  
-  <br> **KOMPASS** ist eine Studie für **Kinder mit Lernschwierigkeiten und psychischen Belastungen**. Ziel der Studie ist es gewesen die **betroffenen Kinder, deren Eltern und Lehrkräfte** in ihrem alltäglichen Umgang mit der Doppelbelastung **unterstützen**.  
-  Dazu kombinierten wir eine schulische Verhaltensintervention mit einer PC-/Online-basierten Lernförderung und begleiteten das Projekt wissenschaftlich.  
-  Das Projekt wurde im Schuljahr 2018/2019 in München durchgeführt und wurde im **Schuljahr 2019/2020 an den Standorten [Raum Wuppertal](http://www.kompass-forschung.de/projektablauf/wuppertal/) und [Berlin Brandenburg](http://www.kompass-forschung.de/projektablauf/berlinbrandenburg/)** durchgeführt. Leider wurde die Durchführung des Projektes im Schuljahr 2019/2020 aufgrund von Corona bedingten Schulschließungen beeinträchtigt, weshalb das Projekt durch eine weitere Fragestellung erweitert wurde. Diese lautet: **Wie hat sich das emotionale Erleben und soziale Verhalten von Kindern durch die Schulschließungen verändert?**  
-  Nähere Informationen zum aktuellen Stand erhalten Sie durch Anwahl des Standortes. Informationen für Teilnehmende finden sich [hier](http://www.kompass-forschung.de/teilnehmende_index/).
+  <br> [Hier eine Kurzzusammenfassung von DYNAMNIK formulieren]
+
+[Beispieltext aus dem KOMPASS Projekt:]
 
 ## Hintergrund
 Als [multidisziplinäres Forschungsteam](http://www.kompass-forschung.de/team/) untersuchen wir, wie Kinder mit Schwierigkeiten im Lesen und Rechnen wirksam gefördert werden können. Wir nutzen dabei an unseren Standorten entwickelte Förderprogramme, die das Lesen und Rechnen von Kindern mit Lernschwierigkeiten in anderen Studien stark verbessern konnten. 
