@@ -11,8 +11,6 @@ main:
     url: /teilnehmende_index/
   - title: "Projekt des BMBF"
     url: http://www.bmbf.de/de/foerderung-in-der-forschung-642.html
-  - title: "Gesamtprojekt"
-    url: http://www.londi.de
     
 ueber-die-studie:
   - title: "Die Interventionen"
