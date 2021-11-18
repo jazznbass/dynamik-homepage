@@ -15,7 +15,7 @@ title_separator          : "|"
 name                     : "DYNAMIK"
 description              : "Kooperative Verhaltensmodifikation und PC-gestützte Föderung von Verhaltensauffälligkeiten und schulischer Lernschwierigkeiten"
 url                      : "https://jazznbass.github.io/dynamik-homepage" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://jazznbass.github.io/dynamik-homepage" # the subpath of your site, e.g. "/blog"
 repository               : "jazznbass/dynamik-homepage" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
