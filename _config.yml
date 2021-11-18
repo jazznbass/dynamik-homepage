@@ -14,9 +14,9 @@ title                    : "KOMPASS Projekt"
 title_separator          : "|"
 name                     : "KOMPASS"
 description              : "Kooperative Verhaltensmodifikation und PC-gestützte Föderung von Verhaltensauffälligkeiten und schulischer Lernschwierigkeiten"
-url                      : "http://www.kompass-forschung.de" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jazznbass.github.io/dynamik-homepage" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "KatharinaGaluschka/kompass-web" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jazznbass/dynamik-homepage" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -58,11 +58,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Katharina Galuschka"
+  name             : "Jürgen Wilbert"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Wissenschaftlerin an der LMU München"
-  location         : "München"
-  email            : "katharina.galuschka@med.uni-muenchen.de"
+  bio              : "Wissenschaftler an der LMU München"
+  location         : "Potsdam"
+  email            : "juergen.wilbert@uni-potsdam.de"
   uri              : "http://www.katharina-galuschka.de"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
