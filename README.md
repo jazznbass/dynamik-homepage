@@ -1,6 +1,6 @@
-## KOMPASS Projekt Homepage
+## DYNAMIK Projekt Homepage
 
-Dieses Github-Projekt enthält die Homepage des KOMPASS Forschungsprojektes.
+Dieses Github-Projekt enthält die Homepage des DYNAMIK Forschungsprojektes.
 
 ### Wichtige Dateien und Ordner
 
