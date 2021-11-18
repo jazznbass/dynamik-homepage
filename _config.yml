@@ -10,9 +10,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "de-DE"
-title                    : "KOMPASS Projekt"
+title                    : "DYNAMIK Projekt"
 title_separator          : "|"
-name                     : "KOMPASS"
+name                     : "DYNAMIK"
 description              : "Kooperative Verhaltensmodifikation und PC-gestützte Föderung von Verhaltensauffälligkeiten und schulischer Lernschwierigkeiten"
 url                      : "https://jazznbass.github.io/dynamik-homepage" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -60,10 +60,10 @@ analytics:
 author:
   name             : "Jürgen Wilbert"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Wissenschaftler an der LMU München"
+  bio              : "Wissenschaftler an der Universität Potsdam"
   location         : "Potsdam"
   email            : "juergen.wilbert@uni-potsdam.de"
-  uri              : "http://www.katharina-galuschka.de"
+  uri              : ""
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
