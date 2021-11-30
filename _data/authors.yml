@@ -64,6 +64,40 @@ Prof. Dr. Moritz Börnert-Ringleb:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  
+Maria Brede:
+  name             : "Maria Brede"
+  avatar           : 
+  bio              : |-  
+    Sie studiert an der Unviersität Hildesheim und ist als studentische Mitarbeiterin im DYNAMIK Projekt beschäftigt. 
+    
+  location         : "Hildesheim"
+  email            : "bredem@uni-hildesheim.de"
+  uri              : 
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           :
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 Linda Kuhr:
   name             : "Linda Kuhr, Sonderpädagogin"
@@ -108,9 +142,9 @@ Fiona Ladisch:
     studierte Sonderpädagogik mit den Förderschwerpunkten emotional soziale Entwicklung und Lernen.
     
     Sie arbeitet seit November 2021 als wissenschaftliche Mitarbeiterin und Doktorandin am Lehrstuhl für Pädagogik bei Beeinträchtigungen des Lernens am Insitut für Sonderpädagogik der Leibniz Universität Hannover.
-  location         : "Hildesheim"
-  email            : "maehler@uni-hildesheim.de"
-  uri              : 
+  location         : "Hannover"
+  email            : "fiona.ladisch@ifs.uni-hannover.de"
+  uri              : "https://www.ifs.uni-hannover.de/de/institut/personenverzeichnis/personen-detailansicht/epv/institut-fuer-sonderpaedagogik/wiss-mitarbeiterinnenmitarbeiter/fiona-ladisch/?tx_t3luhepv_t3luhepvoe%5BdisablePersHomepages%5D=0"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
