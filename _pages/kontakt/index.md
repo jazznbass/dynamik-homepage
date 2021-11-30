@@ -20,7 +20,7 @@ Telefon | +49 331
 Anschrift | Karl-Liebknecht-Str. 24/25, 14476 Potsdam OT Golm, Campus Golm, Haus 31 - Raum 2.08
 
 ## Region Hannover
-![Leibniz Universität Hannover](/assets/images/logos/hannover.png){: .align-right}
+![Leibniz Universität Hannover](/assets/images/logos/Hannover.png){: .align-right}
 Projektzeitraum Schuljahr 2022/2023
 
 [Fiona Ladisch](mailto:fiona.ladisch@ifs.uni-hannover.de)
@@ -30,7 +30,7 @@ Telefon | +49 511 762 00000
 Anschrift | Schloßwender Straße 1 - Haus 1211 - Raum 205, 30159 Hannover
 
 ## Region Hildesheim
-![Universität Hildesheim](/assets/images/logos/uni-hildesheim-logo.png){: .align-right}
+![Universität Hildesheim](/assets/images/logos/Universität_Hildesheim_logo.svg.png){: .align-right}
 Projektzeitraum Schuljahr 2022/2023
 
 [NN](mailto:bredem@uni-hildesheim.de)
