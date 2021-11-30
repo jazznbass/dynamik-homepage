@@ -2,7 +2,7 @@ Prof. Dr. med. Michael von Aster:
   name             : "Prof. Dr. Michael von Aster"
   avatar           : "/assets/images/authors/vonAster.jpg"
   bio              : Diplompädagoge (1976), Dr. med. (1984), Dr. med. habil. (1998), Chefarzt der Kliniken für Kinder- und Jugendpsychiatrie, Psychotherapie und Psychosomatik an den DRK-Kliniken Berlin und am Ernst von Bergmann-Klinikum Potsdam. Seine Forschungsinteressen liegen im Bereich der schulischen Entwicklungsstörungen (Entwicklungs- Neurobiologie, Ursachen, Verlauf, Diagnostik, Präention, Förderung, Therapie), Therapieevaluation, Methoden der Reintegration und Inklusion.
-  location         : " "
+  location         : 
   email            : "m.aster@drk-kliniken-berlin.de"
   uri              : "https://www.uni-potsdam.de/de/clinical-psychology/lehrstuhlteam/ehemalige-mitarbeiter/michael-von-aster.html"
   home             : # null (default), "absolute or relative url to link to author home"
@@ -29,15 +29,13 @@ Prof. Dr. med. Michael von Aster:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  
-
       
 Prof. Dr. Moritz Börnert-Ringleb:
   name             : "Prof. Dr. Moritz Börnert-Ringleb"
   avatar           :  "/assets/images/authors/moritz_IMG_2734_2.jpg"
   bio              : |-  
     Er promovierte zum Thema: „Dynamisches Testen in der sonderpädagogischen Diagnostik" und ist Professor für Pädagogik bei Beeinträchtigungen des Lernens am Insitut für Sonderpädagogik der Leibniz Universität Hannover.
-    location         : "Hannover"
+  location         : "Hannover"
   email            : "moritz.boernert-ringleb@ifs.uni-hannover.de"
   uri              : "https://www.ifs.uni-hannover.de/de/boernert-ringleb/"
   home             : # null (default), "absolute or relative url to link to author home"
@@ -70,7 +68,6 @@ Maria Brede:
   avatar           : 
   bio              : |-  
     Sie studiert an der Unviersität Hildesheim und ist als studentische Mitarbeiterin im DYNAMIK Projekt beschäftigt. 
-    
   location         : "Hildesheim"
   email            : "bredem@uni-hildesheim.de"
   uri              : 
