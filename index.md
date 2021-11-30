@@ -2,7 +2,7 @@
 title: DYNAMIK
 permalink: /
 header:
-  overlay_color: "#9e0e33"
+  overlay_color: "#0e9e4f"
 toc: true
 toc_label: "Inhalt"
 toc_icon: "file-alt"
