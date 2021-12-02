@@ -15,4 +15,5 @@ Das Projekt teilt sich in folgende Schritte:
 1. Auswahl der Kinder und statusdiagnostische Erhebung der Ausgangslage
 2. Fortbildung der Lehrpersonen in Bezug auf die anzuwendenden Interventionen
 
-### 2. Schulhalbjahr 2022/2023: Durchführung einer dynamischen Testung durch die Lehrperson
+### 2. Schulhalbjahr 2022/2023: 
+Durchführung einer dynamischen Testung durch die Lehrperson
