@@ -7,37 +7,20 @@ main:
     url: /team/
   - title: "Kontakt"
     url: /kontakt/
-  - title: "Teilnehmende"
-    url: /teilnehmende_index/
   - title: "Projekt des BMBF"
     url: http://www.bmbf.de/de/foerderung-in-der-forschung-642.html
     
 ueber-die-studie:
-  - title: "Die Interventionen"
-    url: /ueber-die-studie/interventionen/
-  - title: "Verhaltensintervention"
-    url: /ueber-die-studie/verhaltensintervention/
-  - title: "Online-Förderung"
-    url: /ueber-die-studie/online-foerderung/
+  - title: "Dynamisches Testen"
+    url: /ueber-die-studie/dynamisches-testen/
   - title: "Vorteile für teilnehmende Schulen"
     url: /ueber-die-studie/vorteile/
   - title: "Wissenschaftlicher Hintergrund"
     url: /ueber-die-studie/wissenschaftlicher-hintergrund/
 
 projektablauf:
-  - title: "Berlin/Brandenburg"
-    url: /projektablauf/berlin-brandenburg/
-  - title: "München"
-    url: /projektablauf/muenchen/
-  - title: "Wuppertal"
-    url: /projektablauf/wuppertal/
-  - title: "Zusatzinformationen Screening"
-    url: /projektablauf/screening/
-    
-teilnehmende_index:
-  - title: "Eltern"
-    url: /eltern/
-  - title: "Kinder"
-    url: /kinder/
-  - title: "Lehrkräfte"
+  - title: "Zeitplan"
+    url: /projektablauf/zeitplan/
+   - title: "fuer teilnehmende Lehrkräfte"
     url: /lehrkraft/
+
