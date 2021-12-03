@@ -1,5 +1,5 @@
 ---
-title: DYNAMIK
+title: Dynamisches Testen als Perspektive für förderdiagnostische Entscheidungen in der Schule
 permalink: /
 header:
   overlay_color: "#0e9e4f"
@@ -18,41 +18,36 @@ toc_icon: "file-alt"
 [Beispieltext aus dem KOMPASS Projekt:]
 
 ## Hintergrund
-Als [multidisziplinäres Forschungsteam](http://www.kompass-forschung.de/team/) untersuchen wir, wie Kinder mit Schwierigkeiten im Lesen und Rechnen wirksam gefördert werden können. Wir nutzen dabei an unseren Standorten entwickelte Förderprogramme, die das Lesen und Rechnen von Kindern mit Lernschwierigkeiten in anderen Studien stark verbessern konnten. 
-
-Da schulische Schwierigkeiten jedoch häufig auch in Kombination mit Schwierigkeiten im Verhalten oder mit emotionalen Belastungen auftreten (beschrieben z. B. in der Studie von Fischbach et al., 2010) werden auch in diesem Bereich Fördermaßnahmen eingesetzt, deren Bestandteile empirisch erforscht sind. 
-Bisher fehlen allerdings wissenschaftliche Erkenntnisse, wie man Kinder mit dieser Doppelbelastung effektiv fördern kann.
+Testdiagnostische Zugänge werden im Rahmen einer förderdiagnostischen Debatte für eine fehlende Ableitbarkeit von Aussagen zu Potentialen und benötigter Unterstützung kritisiert. In diesem Zusammenhang kann der Ansatz des dynamischen Testens eine vielversprechende Innovation im förderdiagnostischen Prozess darstellen. Im Zuge des dynamischen Testens wird durch die Verbindung von Messung und Förderung versucht, Einblicke in die Problemlöseprozesse von Kindern zu erhalten und Lernpotentiale zu identifizieren.
 
 ## Ziel
-Wir richten den Blick auf das ganze Kind. Dafür ist die individuelle Berücksichtigung emotionaler Belastungen und Verhaltensschwierigkeiten wichtig. 
-Wir möchten Möglichkeiten finden, wie die Kinder, ihre Lehrkräfte und Eltern, im Umgang mit der Doppelbelastung geschult und unterstützt werden können.
-Dadurch sollen die Lese- und Rechenleistungen der Kinder verbessert, die emotionalen Probleme und Verhaltensschwierigkeiten reduziert sowie das gesamte Lernklima in der Klasse verbessert werden.
-Das Projekt wird wissenschaftlich begleitet, um eine Übertragbarkeit der Erkenntnisse aus diesem Projekt zu gewährleisten.
+Ziel des beantragten Projektes ist es, den Nutzen des dynamischen Testens für die Förderplanung im Rahmen einer förderbezogenen Diagnostik zu
+untersuchen. Dafür suchen wir sonderpädagogische Lehrkräfte, die in der Nähe der Projektstandorte 2. oder 3. Klassen unterrichten und bereit sind, sich in ein mathematisches dynamisches Testverfahren einzuarbeiten, es umzusetzen und daraus Förderempfehlungen abzuleiten.
 Weitere Informationen finden Sie unter:  [Ueber die Studie](http://www.kompass-forschung.de/ueber-die-studie/).
 
 ## Weitere Informationen
-[Mathematikförderung Dybuster Calcularis](https://dybuster.com/de/calcularis/)
-
-[Leseförderung Meister Cody Namagi](https://www.meistercody.com/produkte/namagi-legasthenie/)
-
 [Vorteile für teilnehmende Schulen und Lehrkräfte](http://www.kompass-forschung.de/ueber-die-studie/vorteile/)
 
-### Zum kombinierten Auftreten von emotional-sozialen Schwierigkeiten und Rechen-/Leseschwierigkeiten
-Bos, C. S. & Vaughn, S. (2006). Strategies for Teaching Students with Learning and Behavior Problems. Boston: Pearson.
+### Zum Vorgehen des dynamischen Testens (*im mathematischen Bereich)
+*Aunola, K., Leskinen, E., Lerkkanen, M.-K., & Nurmi, J.-E. (2004). Developmental dynamics of math performance from preschool to grade two. Journal of Educational Psychology. 96(4). 699–713. https://doi.org/10.1037/0022-0663.96.4.699
 
-Fischbach, A., Schuchardt, K., Mähler, C. & Hasselhorn, M. (2010). Zeigen Kinder mit schulischen Minderleistungen sozio-emotionale Auffälligkeiten? Erschienen in: Zeitschrift für Entwicklungspsychologie und Pädagogische Psychologie, 42, 201–210.
+Börnert-Ringleb, M., & Wilbert, J. (2016). Dynamisches Testen als neue Perspektive in der sonderpädagogischen Diagnostik—Theorie. Evidenzen. Impulse für Forschung und Praxis. Zeitschrift für Heilpädagogik. 67. 156–167.
 
-Kohn, J., Wyschkon, A. & Esser, G. (2013). Psychische Auffälligkeiten bei Umschriebenen
-Entwicklungsstörungen: Gibt es Unterschiede zwischen Lese-Rechtschreib- und Rechenstörungen? Erschienen in: Lernen und Lernstörungen, 2, 7 – 20.
+*Börnert-Ringleb, M., & Wilbert, J. (2020). Die Vorhersage von Mathe- und Leseleistungen durch dynamisches Testen. Lernen und Lernstörungen, 1–12.
+https://doi.org/10.1024/2235-0977/a000331
 
-Linderkamp, F. & Grünke, M. (2007). Lern-und Verhaltensstörungen: Klassifikation, Prävalenz & Prognostik. Lern-und Verhaltensstörungen. Genese-Diagnostik-Intervention (S. 14-28). Weinheim und Basel: Beltz.
+Bosma, T., Hessels, M. G. P., & Resing, W. C. M. (2012). Teachers’ preferences for educational planning: Dynamic testing. teaching’ experience and teachers’ sense of efficacy. Teaching and Teacher Education. 28(4). 560–567. https://doi.org/10.1016/j.tate.2012.01.007
 
-Ricking, H. (2005). Der „Overlap“ von Lern- und Verhaltensstörungen. Erschienen in: Sonderpädagogik, 35, 235-248.
+Caffrey, E., Fuchs, D., & Fuchs, L. S. (2008). The predictive validity of dynamic assessment a review. The Journal of Special Education. 41(4). 254–270.
 
-### Zum allgemeinen Ansatz der Positiven Verhaltensunterstützung in der Schule auf mehreren Ebenen
-[School-Wide Positive Behavior Interventions and Support](https://www.pbis.org/topics/school-wide)
+*Fuchs, L. S., Compton, D. L., Fuchs, D., Hollenbeck, K. N., Hamlett, C. L., & Seethaler, P. M. (2011). Two-stage screening for math problem-solving difficulty using dynamic assessment of algebraic learning. Journal of Learning Disabilities. 44(4). 372–380. MEDLINE. https://doi.org/10.1177/0022219411407867
 
-[Hanisch, C., Casale, G., Volpe, R.J., Briesch, A.M., Richard, S., Meyer, H., Hövel, D., Hagen, T., Krull, J., Hennemann, T. (2019). Gestufte Förderung in der Grundschule. Konzeption eines mehrstufigen, multimodalen Förderkonzepts bei expansivem Problemverhalten. Erschienen in: Prävention und Gesundheitsförderung. Ausgabe 3. Springer Verlag GmbH. S. 237-241.](https://link.springer.com/article/10.1007%2Fs11553-018-0700-z)
+*Fuchs, L. S., Compton, D. L., Fuchs, D., Hollenbeck, K. N., Craddock, C. F., & Hamlett, C. L. (2008). Dynamic assessment of algebraic learning in predicting third graders’ development of mathematical problem solving. Journal of educational psychology. 100(4). 829.
 
-### Zum Zentralprojekt LONDI (**L**ernstörungen **ON**lineplattform für **D**iagnostik und **I**ntervention)
-[Projektseite LONDI](https://www.londi.de)
+Guthke, J., Beckmann, J. F., & Wiedl, K. H. (2003). Dynamik im dynamischen Testen. Psychologische Rundschau. 54(4). 225–232. https://doi.org/10.1026//0033-3042.54.4.225
+
+Resing, W. C. (2013). Dynamic Testing and Individualized Instruction: Helpful in Cognitive Education? Journal of Cognitive Education and Psychology. 12(1). 81–95.
+
+*Seethaler, P. M., Fuchs, L. S., Fuchs, D., & Compton, D. L. (2012). Predicting first graders’ development of calculation versus word-problem performance: The role of dynamic assessment. Journal of Educational Psychology. 104(1). 224–234. https://doi.org/10.1037/a0024968
+
+Sternberg, R. J., & Grigorenko, E. L. (2002). Dynamic Testing: The Nature and Measurement of Learning Potential. Cambridge University Press.
