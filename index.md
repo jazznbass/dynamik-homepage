@@ -1,5 +1,5 @@
 ---
-title: Dynamisches Testen als Perspektive für förderdiagnostische Entscheidungen in der Schule
+title: DYNAMIK - Dynamisches Testen als Perspektive für förderdiagnostische Entscheidungen in der Schule
 permalink: /
 header:
   overlay_color: "#0e9e4f"
@@ -13,9 +13,6 @@ toc_icon: "file-alt"
 <aside class="notice--primary">
 [Hier einen Teaser formulieren]
 </aside>  
-  <br> [Hier eine Kurzzusammenfassung von DYNAMNIK formulieren]
-
-[Beispieltext aus dem KOMPASS Projekt:]
 
 ## Hintergrund
 Testdiagnostische Zugänge werden im Rahmen einer förderdiagnostischen Debatte für eine fehlende Ableitbarkeit von Aussagen zu Potentialen und benötigter Unterstützung kritisiert. In diesem Zusammenhang kann der Ansatz des dynamischen Testens eine vielversprechende Innovation im förderdiagnostischen Prozess darstellen. Im Zuge des dynamischen Testens wird durch die Verbindung von Messung und Förderung versucht, Einblicke in die Problemlöseprozesse von Kindern zu erhalten und Lernpotentiale zu identifizieren.
