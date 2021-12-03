@@ -19,6 +19,6 @@ Das [Bundesministerium für Bildung und Forschung][bmbf] fördert das Projekt.
 
 ![Leibniz Universität Hannover](/assets/images/logos/Hannover.png){: .align-center}
 
-![Universität Hildesheim](/assets/images/logos/Hildesheim.png){: .align-center}
+![Universität Hildesheim](/assets/images/logos/Universität_Hildesheim_logo.svg.png){: .align-center}
 
 ![Universtiät Potsdam](/assets/images/logos/Potsdam.jpg){: .align-center}
