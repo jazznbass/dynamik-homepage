@@ -5,9 +5,10 @@ sidebar:
   nav: "ueber-die-studie"
 ---
 
-Aufbauend auf der Grundlage bisheriger Forschung haben Mitarbeiende der [Leibniz Universität Hannover] in Kooperation mit der [Universität Hildesheim] sowie der [Universität Potsdam][up] auf Basis des statusdiagnostischen Testinstruments ZAREKI-R ein dynamisches Testinstrument entwickelt, das im Rahmen der Studie erprobt werden soll.
+Aufbauend auf der Grundlage bisheriger Forschung haben Mitarbeiende der [Leibniz Universität Hannover] in Kooperation mit der [Universität Hildesheim] sowie der [Universität Potsdam] auf Basis des statusdiagnostischen Testinstruments ZAREKI-R ein dynamisches Testinstrument entwickelt, das im Rahmen der Studie erprobt werden soll.
 
 Das [Bundesministerium für Bildung und Forschung][bmbf] fördert das Projekt.
+
 ![Bundesministerium für Bildung und Forschung](/assets/images/logos/BmBF-Logo_kleiner_50.jpg){: .align-center}
 
 ## Beteiligte Akteure
