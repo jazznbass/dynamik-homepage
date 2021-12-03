@@ -239,7 +239,6 @@ Prof. Dr. Claudia Mähler:
   avatar           : "assets/images/authors/maehler.jpg"
   bio              : |- 
     ist Professorin für Pädagogische Psychologie und Diagnostik an der Universität Hildesheim. 
-
   location         : "Hildesheim"
   email            : "maehler@uni-hildesheim.de"
   uri              : 
@@ -268,7 +267,7 @@ Prof. Dr. Claudia Mähler:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   
-  Anna Niemz:
+Anna Niemz:
   name             : "Anna Niemz"
   avatar           : 
   bio              : |-  
@@ -301,7 +300,7 @@ Prof. Dr. Claudia Mähler:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
-Jürgen Wilbert:
+Prof. Dr. Jürgen Wilbert:
   name             : "Prof. Dr. Jürgen Wilbert"
   avatar           : "/assets/images/authors/Jürgen Wilbert.jpg.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |- 
