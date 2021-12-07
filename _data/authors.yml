@@ -1,7 +1,7 @@
 Prof. Dr. med. Michael von Aster:
   name             : "Prof. Dr. Michael von Aster"
   avatar           : "/assets/images/authors/vonAster.jpg"
-  bio              : Diplompädagoge (1976), Dr. med. (1984), Dr. med. habil. (1998), Chefarzt der Kliniken für Kinder- und Jugendpsychiatrie, Psychotherapie und Psychosomatik an den DRK-Kliniken Berlin und am Ernst von Bergmann-Klinikum Potsdam. Seine Forschungsinteressen liegen im Bereich der schulischen Entwicklungsstörungen (Entwicklungs- Neurobiologie, Ursachen, Verlauf, Diagnostik, Präention, Förderung, Therapie), Therapieevaluation, Methoden der Reintegration und Inklusion.
+  bio              : ist Diplompädagoge (1976), Dr. med. (1984), Dr. med. habil. (1998), bis 2019 Chefarzt der Kliniken für Kinder- und Jugendpsychiatrie, Psychotherapie und Psychosomatik an den DRK-Kliniken Berlin und am Ernst von Bergmann-Klinikum Potsdam. Seine Forschungsinteressen liegen im Bereich der schulischen Entwicklungsstörungen (Entwicklungs- Neurobiologie, Ursachen, Verlauf, Diagnostik, Präention, Förderung, Therapie), Therapieevaluation, Methoden der Reintegration und Inklusion.
   location         : 
   email            : "m.aster@drk-kliniken-berlin.de"
   uri              : "https://www.uni-potsdam.de/de/clinical-psychology/lehrstuhlteam/ehemalige-mitarbeiter/michael-von-aster.html"
@@ -33,8 +33,7 @@ Prof. Dr. med. Michael von Aster:
 Prof. Dr. Moritz Börnert-Ringleb:
   name             : "Prof. Dr. Moritz Börnert-Ringleb"
   avatar           :  "/assets/images/authors/moritz_IMG_2734_2.jpg"
-  bio              : |-  
-    Er promovierte zum Thema: „Dynamisches Testen in der sonderpädagogischen Diagnostik" und ist Professor für Pädagogik bei Beeinträchtigungen des Lernens am Insitut für Sonderpädagogik der Leibniz Universität Hannover.
+  bio              : |-  Er ist Professor für Pädagogik bei Beeinträchtigungen des Lernens am Insitut für Sonderpädagogik der Leibniz Universität Hannover und promovierte zum Thema: „Dynamisches Testen in der sonderpädagogischen Diagnostik".
   location         : "Hannover"
   email            : "moritz.boernert-ringleb@ifs.uni-hannover.de"
   uri              : "https://www.ifs.uni-hannover.de/de/boernert-ringleb/"
@@ -132,8 +131,7 @@ Alea Kreyes:
   name             : "Alea Kreyes"
   avatar           : "/assets/images/authors/Alea Kreyes.jpg"
   bio              : |-
-    Sie arbeitet seit Januar 2022 als wissenschaftliche Mitarbeiterin und Doktorandin am Lehrstuhl für Pädagogische Psychologie und Diagnostik an der Universität Hildesheim.
-    
+    studierte (Pädagogische) Psychologie an der Universität Hildesheim. Sie arbeitet seit Januar 2022 als wissenschaftliche Mitarbeiterin und Doktorandin am Lehrstuhl für Pädagogische Psychologie und Diagnostik an der Universität Hildesheim.
   location         : "Hildesheim"
   email            : 
   uri              :
@@ -205,7 +203,7 @@ Lydia Küttner:
     Sie arbeitet seit März 2022 als wissenschaftliche Mitarbeiterin und Doktorandin am Lehrstuhl für Inklusionspädagogik, Schwerpunkt Forschungsmethoden und Diagnostik an der Universität Potsdam.
     
   location         : "Potsdam"
-  email            : "linda.kuhr@uni-potsdam.de"
+  email            : "lydia.kuettner@uni-potsdam.de"
   uri              : "https://www.uni-potsdam.de/de/inklusion/forschungsmethodenunddiagnostik/kuhr.html"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -236,8 +234,7 @@ Fiona Ladisch:
   name             : "Fiona Ladisch"
   avatar           : "assets/images/authors/Fiona Ladisch.jpg"
   bio              : |- 
-    studierte Sonderpädagogik mit den Förderschwerpunkten emotional soziale Entwicklung und Lernen.
-    Sie arbeitet seit November 2021 als wissenschaftliche Mitarbeiterin und Doktorandin am Lehrstuhl für Pädagogik bei Beeinträchtigungen des Lernens am Insitut für Sonderpädagogik der Leibniz Universität Hannover.
+    studierte Sonderpädagogik mit den Förderschwerpunkten emotional soziale Entwicklung und Lernen. Sie arbeitet seit November 2021 als wissenschaftliche Mitarbeiterin und Doktorandin am Lehrstuhl für Pädagogik bei Beeinträchtigungen des Lernens am Insitut für Sonderpädagogik der Leibniz Universität Hannover.
   location         : "Hannover"
   email            : "fiona.ladisch@ifs.uni-hannover.de"
   uri              : "https://www.ifs.uni-hannover.de/de/institut/personenverzeichnis/personen-detailansicht/epv/institut-fuer-sonderpaedagogik/wiss-mitarbeiterinnenmitarbeiter/fiona-ladisch/?tx_t3luhepv_t3luhepvoe%5BdisablePersHomepages%5D=0"
@@ -304,7 +301,7 @@ Anna Niemz:
   name             : "Anna Niemz"
   avatar           : "/assets/images/authors/Anna Niemz.jpg"
   bio              : |-  
-    Sie studiert an der Leibniz Unviersität Hannover und ist als studentische Mitarbeiterin im DYNAMIK Projekt beschäftigt. 
+    Sie studiert an der Leibniz Unviersität Hannover Sonderpädagogik und ist als studentische Mitarbeiterin im DYNAMIK Projekt beschäftigt. 
   location         : "Hannover"
   email            : "niemz@stud.uni-hannover.de"
   uri              : 
@@ -338,7 +335,6 @@ Prof. Dr. Jürgen Wilbert:
   avatar           : "/assets/images/authors/Jürgen Wilbert.jpg.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : |- 
     ist Professor für Forschungsmethoden und Diagnostik am Department für Inklusionspädagogik der Universität Potsdam. 
-
   location         : "Potsdam"
   email            : "juergen.wilbert@uni-potsdam.de"
   uri              : "https://jazznbass.github.io/homepage/"
