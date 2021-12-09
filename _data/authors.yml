@@ -1,7 +1,7 @@
 Prof. Dr. med. Michael von Aster:
   name             : "Prof. Dr. Michael von Aster"
   avatar           : "/assets/images/authors/vonAster.jpg"
-  bio              : ist Diplompädagoge (1976), Dr. med. (1984), Dr. med. habil. (1998), bis 2019 Chefarzt der Kliniken für Kinder- und Jugendpsychiatrie, Psychotherapie und Psychosomatik an den DRK-Kliniken Berlin und am Ernst von Bergmann-Klinikum Potsdam. Seine Forschungsinteressen liegen im Bereich der schulischen Entwicklungsstörungen (Entwicklungs- Neurobiologie, Ursachen, Verlauf, Diagnostik, Präention, Förderung, Therapie), Therapieevaluation, Methoden der Reintegration und Inklusion.
+  bio              : Er ist Diplompädagoge (1976), Dr. med. (1984), Dr. med. habil. (1998), bis 2019 Chefarzt der Kliniken für Kinder- und Jugendpsychiatrie, Psychotherapie und Psychosomatik an den DRK-Kliniken Berlin und am Ernst von Bergmann-Klinikum Potsdam. Seine Forschungsinteressen liegen im Bereich der schulischen Entwicklungsstörungen (Entwicklungs- Neurobiologie, Ursachen, Verlauf, Diagnostik, Präention, Förderung, Therapie), Therapieevaluation, Methoden der Reintegration und Inklusion.
   location         : 
   email            : "m.aster@drk-kliniken-berlin.de"
   uri              : "https://www.uni-potsdam.de/de/clinical-psychology/lehrstuhlteam/ehemalige-mitarbeiter/michael-von-aster.html"
@@ -33,7 +33,7 @@ Prof. Dr. med. Michael von Aster:
 Prof. Dr. Moritz Börnert-Ringleb:
   name             : "Prof. Dr. Moritz Börnert-Ringleb"
   avatar           :  "/assets/images/authors/moritz_IMG_2734_2.jpg"
-  bio              : |-  Er ist Professor für Pädagogik bei Beeinträchtigungen des Lernens am Insitut für Sonderpädagogik der Leibniz Universität Hannover und promovierte zum Thema: „Dynamisches Testen in der sonderpädagogischen Diagnostik".
+  bio              :  Er ist Professor für Pädagogik bei Beeinträchtigungen des Lernens am Insitut für Sonderpädagogik der Leibniz Universität Hannover und promovierte zum Thema: „Dynamisches Testen in der sonderpädagogischen Diagnostik".
   location         : "Hannover"
   email            : "moritz.boernert-ringleb@ifs.uni-hannover.de"
   uri              : "https://www.ifs.uni-hannover.de/de/boernert-ringleb/"
@@ -66,8 +66,7 @@ Prof. Dr. Moritz Börnert-Ringleb:
 Maria Brede:
   name             : "Maria Brede"
   avatar           : "/assets/images/authors/Maria Brede.jpg"
-  bio              : |-  
-    Sie studiert an der Unviersität Hildesheim und ist als studentische Mitarbeiterin im DYNAMIK Projekt beschäftigt. 
+  bio              : Sie studiert an der Unviersität Hildesheim und ist als studentische Mitarbeiterin im DYNAMIK Projekt beschäftigt. 
   location         : "Hildesheim"
   email            : "bredem@uni-hildesheim.de"
   uri              : 
@@ -130,8 +129,7 @@ Prof. Dr. Marco Hessels:
 Alea Kreyes:
   name             : "Alea Kreyes"
   avatar           : "/assets/images/authors/Alea Kreyes.jpg"
-  bio              : |-
-    studierte (Pädagogische) Psychologie an der Universität Hildesheim. Sie arbeitet seit Januar 2022 als wissenschaftliche Mitarbeiterin und Doktorandin am Lehrstuhl für Pädagogische Psychologie und Diagnostik an der Universität Hildesheim.
+  bio              : Sie studierte (Pädagogische) Psychologie an der Universität Hildesheim. Sie arbeitet seit Januar 2022 als wissenschaftliche Mitarbeiterin und Doktorandin am Lehrstuhl für Pädagogische Psychologie und Diagnostik an der Universität Hildesheim.
   location         : "Hildesheim"
   email            : 
   uri              :
@@ -163,10 +161,7 @@ Alea Kreyes:
 Linda Kuhr:
   name             : "Linda Kuhr"
   avatar           : "/assets/images/authors/Linda Kuhr.png"
-  bio              : |-
-    studierte Sonderpädagogik mit den Förderschwerpunkten emotional soziale Entwicklung und Lernen an der Universität Rostock.
-    Sie arbeitet seit April 2018 als wissenschaftliche Mitarbeiterin und Doktorandin am Lehrstuhl für Inklusionspädagogik, Schwerpunkt Forschungsmethoden und Diagnostik an der Universität Potsdam.
-    
+  bio              : Sie studierte Sonderpädagogik mit den Förderschwerpunkten emotional soziale Entwicklung und Lernen an der Universität Rostock. Sie arbeitet seit April 2018 als wissenschaftliche Mitarbeiterin am Lehrstuhl für Inklusionspädagogik, Schwerpunkt Forschungsmethoden und Diagnostik an der Universität Potsdam. 
   location         : "Potsdam"
   email            : "linda.kuhr@uni-potsdam.de"
   uri              : "https://www.uni-potsdam.de/de/inklusion/forschungsmethodenunddiagnostik/kuhr.html"
@@ -198,10 +193,7 @@ Linda Kuhr:
 Lydia Küttner:
   name             : "Lydia Küttner"
   avatar           : "assets/images/authors/Lydia Küttner.png"
-  bio              : |-
-    studierte Lehramt für Sekundarschulen an der Universität Leipzig und Psychologie an der Universität Potsdam.
-    Sie arbeitet seit März 2022 als wissenschaftliche Mitarbeiterin und Doktorandin am Lehrstuhl für Inklusionspädagogik, Schwerpunkt Forschungsmethoden und Diagnostik an der Universität Potsdam.
-    
+  bio              : Sie studierte Lehramt für Sekundarschulen an der Universität Leipzig und Psychologie an der Universität Potsdam. Sie arbeitet seit März 2022 als wissenschaftliche Mitarbeiterin und Doktorandin am Lehrstuhl für Inklusionspädagogik, Schwerpunkt Forschungsmethoden und Diagnostik an der Universität Potsdam.
   location         : "Potsdam"
   email            : "lydia.kuettner@uni-potsdam.de"
   uri              : "https://www.uni-potsdam.de/de/inklusion/forschungsmethodenunddiagnostik/kuhr.html"
@@ -233,8 +225,7 @@ Lydia Küttner:
 Fiona Ladisch:
   name             : "Fiona Ladisch"
   avatar           : "assets/images/authors/Fiona Ladisch.jpg"
-  bio              : |- 
-    studierte Psychologie und Sozialwissenschaften. Sie arbeitet seit November 2021 als wissenschaftliche Mitarbeiterin und Doktorandin am Lehrstuhl für Pädagogik bei Beeinträchtigungen des Lernens am Insitut für Sonderpädagogik der Leibniz Universität Hannover.
+  bio              : Sie studierte Psychologie und Sozialwissenschaften. Sie arbeitet seit November 2021 als wissenschaftliche Mitarbeiterin und Doktorandin am Lehrstuhl für Pädagogik bei Beeinträchtigungen des Lernens am Insitut für Sonderpädagogik der Leibniz Universität Hannover.
   location         : "Hannover"
   email            : "fiona.ladisch@ifs.uni-hannover.de"
   uri              : "https://www.ifs.uni-hannover.de/de/institut/personenverzeichnis/personen-detailansicht/epv/institut-fuer-sonderpaedagogik/wiss-mitarbeiterinnenmitarbeiter/fiona-ladisch/?tx_t3luhepv_t3luhepvoe%5BdisablePersHomepages%5D=0"
@@ -267,8 +258,7 @@ Fiona Ladisch:
 Prof. Dr. Claudia Mähler:
   name             : "Prof. Dr. Claudia Mähler"
   avatar           : "assets/images/authors/maehler.jpg"
-  bio              : |- 
-    ist Professorin für Pädagogische Psychologie und Diagnostik an der Universität Hildesheim. 
+  bio              : Sie ist Professorin für Pädagogische Psychologie und Diagnostik an der Universität Hildesheim. 
   location         : "Hildesheim"
   email            : "maehler@uni-hildesheim.de"
   uri              : 
@@ -300,8 +290,7 @@ Prof. Dr. Claudia Mähler:
 Anna Niemz:
   name             : "Anna Niemz"
   avatar           : "/assets/images/authors/Anna Niemz.jpg"
-  bio              : |-  
-    Sie studiert an der Leibniz Unviersität Hannover Sonderpädagogik und ist als studentische Mitarbeiterin im DYNAMIK Projekt beschäftigt. 
+  bio              : Sie studiert an der Leibniz Unviersität Hannover Sonderpädagogik und ist als studentische Mitarbeiterin im DYNAMIK Projekt beschäftigt. 
   location         : "Hannover"
   email            : "niemz@stud.uni-hannover.de"
   uri              : 
@@ -333,8 +322,7 @@ Anna Niemz:
 Prof. Dr. Jürgen Wilbert:
   name             : "Prof. Dr. Jürgen Wilbert"
   avatar           : "/assets/images/authors/Jürgen Wilbert.jpg.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : |- 
-    ist Professor für Forschungsmethoden und Diagnostik am Department für Inklusionspädagogik der Universität Potsdam. 
+  bio              : Er ist Professor für Forschungsmethoden und Diagnostik am Department für Inklusionspädagogik der Universität Potsdam. 
   location         : "Potsdam"
   email            : "juergen.wilbert@uni-potsdam.de"
   uri              : "https://jazznbass.github.io/homepage/"
