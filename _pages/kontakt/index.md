@@ -38,3 +38,7 @@ Projektzeitraum Schuljahr 2022/2023
 Email | <bredem@uni-hildesheim.de>
 Telefon: | +49 5121 883-10906
 Anschrift | Universitätsplatz 1 Gebäude W1-105, , 31141 Hildesheim
+
+
+![Bundesministerium für Bildung und Forschung](/assets/images/logos/BmBF-Logo_kleiner_50.jpg){: .align-right}
+Die DYNAMIK-Studie ist ein Projekt, welches vom Bundesministerium für Bildung und Forschung finanziert wird. 
