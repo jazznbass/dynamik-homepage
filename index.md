@@ -8,11 +8,8 @@ toc_label: "Inhalt"
 toc_icon: "file-alt"
 ---
 <aside class="notice--primary">
-<font color="red">[Hier was sehr aktuelles hinterlegen (z.B. Änderungen wegen Corona etc.]</font>
+<font color="red"> Derzeit werden die Informationsmaterialien für die Schule erarbeitet. Die Kontaktaufnahme zu potentiell teilnehmenden Schulen beginnt voraussichtlich im Mai 2022. </font>
 </aside>
-<aside class="notice--primary">
-[Hier einen Teaser formulieren]
-</aside>  
 
 Die DYNAMIK-Studie ist ein Projekt, welches vom Bundesministerium für Bildung und Forschung finanziert wird. ![Bundesministerium für Bildung und Forschung](/assets/images/logos/BmBF-Logo_kleiner_50.jpg){: .align-center}
 
