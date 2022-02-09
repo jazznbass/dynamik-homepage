@@ -15,6 +15,6 @@ Die Teilnahme an der Studie birgt für die Schulen folgende Vorteile:
 ## für Kinder:
 alle teilnehmenden Schulen:
 
-
+## Finanzierung:
 ![Bundesministerium für Bildung und Forschung](/assets/images/logos/BmBF-Logo_kleiner_50.jpg){: .align-right}
 Die DYNAMIK-Studie ist ein Projekt, welches vom Bundesministerium für Bildung und Forschung finanziert wird. 
