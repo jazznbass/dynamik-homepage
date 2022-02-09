@@ -14,7 +14,7 @@ toc_icon: "file-alt"
 [Hier einen Teaser formulieren]
 </aside>  
 
-Die DYNAMIK-Studie ist ein Projekt, welches vom Bundesministerium für Bildung und Forschung finanziert wird. 
+Die DYNAMIK-Studie ist ein Projekt, welches vom Bundesministerium für Bildung und Forschung finanziert wird. ![Bundesministerium für Bildung und Forschung](/assets/images/logos/BmBF-Logo_kleiner_50.jpg){: .align-center}
 
 ## Hintergrund
 Testdiagnostische Zugänge werden im Rahmen einer förderdiagnostischen Debatte für eine fehlende Ableitbarkeit von Aussagen zu Potentialen und benötigter Unterstützung kritisiert. In diesem Zusammenhang kann der Ansatz des dynamischen Testens eine vielversprechende Innovation im förderdiagnostischen Prozess darstellen. Im Zuge des dynamischen Testens wird durch die Verbindung von Messung und Förderung versucht, Einblicke in die Problemlöseprozesse von Kindern zu erhalten und Lernpotentiale zu identifizieren.
