@@ -8,7 +8,7 @@ sidebar:
 Die Teilnahme an der Studie birgt für die Schulen folgende Vorteile:
 
 ## für Lehrkräfte:
-- Erhalt einer Fortbildung zum Dynamischen Testen ["Dynamisches Testen"](http://www.kompass-forschung.de/ueber-die-studie/interventionen/#ii-pc-gest%C3%BCtzte-f%C3%B6rderung-der-schulischen-leistungsschw%C3%A4chen)
+- Erhalt einer Fortbildung zum ["Dynamischen Testen"]()
 - praktische Erprobung der Methode
 - Berufliche Selbstentwicklung und Weiterbildung
 
