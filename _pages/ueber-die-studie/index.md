@@ -27,6 +27,5 @@ Die **Lehrkräfte** führen nun (1.) keine weitere Diagnostik durch, (2) eine dy
 
 Wir danken Ihnen für Ihr Interesse!
 
-
-![Bundesministerium für Bildung und Forschung](/assets/images/logos/BmBF-Logo_kleiner_50.jpg)
 Die DYNAMIK-Studie ist ein Projekt, welches vom Bundesministerium für Bildung und Forschung finanziert wird. 
+![Bundesministerium für Bildung und Forschung](/assets/images/logos/BmBF-Logo_kleiner_50.jpg)
