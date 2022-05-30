@@ -17,7 +17,7 @@ Email des Teams <dynamik-huwi@uni-potsdam.de>
 [Lydia Küttner](mailto:dynamik-huwi@uni-potsdam.de)
 
 Email | <lydia.kuettner@uni-potsdam.de> 
-Telefon | +49 331 
+Telefon | +49 331 977-2462
 Anschrift | Karl-Liebknecht-Str. 24/25, 14476 Potsdam OT Golm, Campus Golm, Haus 31 - Raum 2.08
 
 ## Region Hannover
