@@ -12,10 +12,11 @@ Mit der Publikation erster Studienergebnisse wird im zweiten Halbjahr 2024 gerec
 ## Region Berlin-Brandenburg
 ![Universtiät Potsdam](/assets/images/logos/Potsdam.jpg){: .align-right}
 Projektzeitraum: Schuljahr 2022/2023
+Email des Teams <dynamik-huwi@uni-potsdam.de>
 
-[Lydia Küttner](mailto:lydia.kuettner@uni-potsdam.de)
+[Lydia Küttner](mailto:dynamik-huwi@uni-potsdam.de)
 
-Email | <lydia.kuettner@uni-potsdam.de>
+Email | <lydia.kuettner@uni-potsdam.de> 
 Telefon | +49 331 
 Anschrift | Karl-Liebknecht-Str. 24/25, 14476 Potsdam OT Golm, Campus Golm, Haus 31 - Raum 2.08
 
