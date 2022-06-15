@@ -8,7 +8,7 @@ toc_label: "Inhalt"
 toc_icon: "file-alt"
 ---
 <aside class="notice--primary">
-<font color="red"> Derzeit werden die Informationsmaterialien für die Schule erarbeitet. Die Kontaktaufnahme zu potentiell teilnehmenden Schulen beginnt voraussichtlich im Mai 2022. </font>
+<font color="red"> Derzeit werden arbeiten alle Standorte an der Kontaktaufnahme zu potentiell teilnehmenden Schulen. Gern können Sie auch von sich aus kontakt zu den Projektteams aufnehmen, wenn Sie an einer Teilnahme interessiert sind. </font>
 </aside>
 
 ![Bundesministerium für Bildung und Forschung](/assets/images/logos/BmBF-Logo_kleiner_50.jpg){: .align-right}
