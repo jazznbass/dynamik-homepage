@@ -10,7 +10,7 @@ Bitte kontaktieren Sie für Rückfragen direkt die Ansprechpartner in Ihrer Regi
 Mit der Publikation erster Studienergebnisse wird im zweiten Halbjahr 2024 gerechnet.
 
 ## Region Berlin-Brandenburg
-![Universtiät Potsdam](/assets/images/logos/Potsdam.jpg)
+<img src="/assets/images/logos/Potsdam.jpg" alt="Universität Potsdam" title="" />
 Projektzeitraum: Schuljahr 2022/2023
 Email des Teams <dynamik-huwi@uni-potsdam.de>
 
