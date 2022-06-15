@@ -34,4 +34,5 @@ Die so erhobenen Daten werden in Bezug auf die Passung von Handlungsempfehlungen
 Wir danken Ihnen für Ihr Interesse!
 
 Die DYNAMIK-Studie ist ein Projekt, welches vom Bundesministerium für Bildung und Forschung finanziert wird. 
+
 ![Bundesministerium für Bildung und Forschung](/assets/images/logos/BmBF-Logo_kleiner_50.jpg)
