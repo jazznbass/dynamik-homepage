@@ -32,7 +32,7 @@ Telefon | +49 511 762 00000
 Anschrift | Schloßwender Straße 1 - Haus 1211 - Raum 205, 30159 Hannover
 
 ## Region Hildesheim
-![Universitaet Hildesheim](dynamik-projekt.de/assets/images/logos/Universität_Hildesheim_logo.svg.png)
+![Universitaet Hildesheim](https://github.com/jazznbass/dynamik-homepage/blob/assets/images/logos/Universität_Hildesheim_logo.svg.png)
 Projektzeitraum Schuljahr 2022/2023
 
 [Alea Kreyes](mailto:kreyes@uni-hildesheim.de)
