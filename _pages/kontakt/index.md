@@ -34,9 +34,9 @@ Anschrift | Schloßwender Straße 1 - Haus 1211 - Raum 205, 30159 Hannover
 ![Universität Hildesheim](/assets/images/logos/Universität_Hildesheim_logo.svg.png){: .align-right}
 Projektzeitraum Schuljahr 2022/2023
 
-[NN](mailto:bredem@uni-hildesheim.de)
+[Alea Kreyes](mailto:kreyes@uni-hildesheim.de)
 
-Email | <bredem@uni-hildesheim.de>
+Email | <kreyes@uni-hildesheim.de>
 Telefon: | +49 5121 883-10906
 Anschrift | Universitätsplatz 1 Gebäude W1-105, , 31141 Hildesheim
 
