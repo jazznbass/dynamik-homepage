@@ -22,7 +22,7 @@ Testdiagnostische Zugänge werden im Rahmen einer förderdiagnostischen Debatte 
 ## Ziel
 Ziel des beantragten Projektes ist es, den Nutzen des dynamischen Testens für die Förderplanung im Rahmen einer förderbezogenen Diagnostik zu
 untersuchen. Dafür suchen wir sonderpädagogische Lehrkräfte, die in der Nähe der Projektstandorte 2. oder 3. Klassen unterrichten und bereit sind, sich in ein mathematisches dynamisches Testverfahren einzuarbeiten, es umzusetzen und daraus Förderempfehlungen abzuleiten.
-Weitere Informationen finden Sie unter:  [Ueber die Studie](https://jazznbass.github.io/dynamik-homepage/ueber-die-studie/).
+Weitere Informationen finden Sie unter:  [Über die Studie](https://jazznbass.github.io/dynamik-homepage/ueber-die-studie/).
 
 ## Weitere Informationen
 [Vorteile für teilnehmende Schulen und Lehrkräfte](https://jazznbass.github.io/dynamik-homepage/ueber-die-studie/vorteile/)
