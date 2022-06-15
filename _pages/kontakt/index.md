@@ -10,7 +10,7 @@ Bitte kontaktieren Sie für Rückfragen direkt die Ansprechpartner in Ihrer Regi
 Mit der Publikation erster Studienergebnisse wird im zweiten Halbjahr 2024 gerechnet.
 
 ## Region Berlin-Brandenburg
-![Universtät Potsdam](dynamik-homepage/assets/images/logos/Potsdam.jpg){: .align-right}
+![Universtät Potsdam](https://jazznbass.github.io//dynamik-homepage/assets/images/logos/Potsdam.jpg){: .align-right}
 
 Projektzeitraum: Schuljahr 2022/2023
 Email des Teams <dynamik-huwi@uni-potsdam.de>
@@ -22,7 +22,7 @@ Telefon | +49 331 977-2462
 Anschrift | Karl-Liebknecht-Str. 24/25, 14476 Potsdam OT Golm, Campus Golm, Haus 31 - Raum 2.08
 
 ## Region Hannover
-![Leibniz Universitaet Hannover](dynamik-projekt.de/assets/images/logos/Hannover.png)
+![Leibniz Universitaet Hannover](https://github.com/jazznbass/dynamik-homepage/blob/assets/images/logos/Hannover.png)
 Projektzeitraum Schuljahr 2022/2023
 
 [Fiona Ladisch](mailto:fiona.ladisch@ifs.uni-hannover.de)
