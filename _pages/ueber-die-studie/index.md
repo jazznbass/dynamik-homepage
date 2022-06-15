@@ -21,7 +21,6 @@ Nach den Herbstferien 2022
 Es folgt eine Fragebogenerhebung zu Lehrkraftmerkmalen und einer Fortbildung zum dynamischen Testen für die teilnehmenden **Lehrkräfte**. 
 
 ***Schritt 3*** 
-
 Ende des 1./ Anfang des 2. Halbjahrs
 
 Die **Lehrkräfte** führen nun (1.) keine weitere Diagnostik durch, (2) eine dynamische Testung oder (3) eine statusdiagnostische Testung mit maximal 3 der ausgewählten **Kinder** durch und erstellen anschließend eine Empfehlung für das weitere pädagogische Handeln.
