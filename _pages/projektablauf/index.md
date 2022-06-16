@@ -20,5 +20,5 @@ Durchführung einer dynamischen Testung durch die Lehrperson
 
 
 
-![Bundesministerium für Bildung und Forschung](/assets/images/logos/BmBF-Logo_kleiner_50.jpg){: .align-right}
+![Bundesministerium für Bildung und Forschung](https://jazznbass.github.io//dynamik-homepage/assets/images/logos/BmBF-Logo_kleiner_50.jpg){: .align-right}
 Die DYNAMIK-Studie ist ein Projekt, welches vom Bundesministerium für Bildung und Forschung finanziert wird.
