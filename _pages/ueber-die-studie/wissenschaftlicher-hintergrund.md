@@ -13,7 +13,7 @@ Das [Bundesministerium für Bildung und Forschung][bmbf] fördert das Projekt.
 ## Beteiligte Akteure
 
 [Leibniz Universität Hannover]: https://www.ifs.uni-hannover.de/de/abteilungen/paedagogik-bei-beeintraechtigungen-des-lernens/ ![Leibniz Universität Hannover](https://jazznbass.github.io//dynamik-homepage/assets/images/logos/Hannover.png){: .align-rigth}
-[Universität Hildesheim]: https://www.uni-hildesheim.de/fb1/institute/psychologie/arbeitsgruppen/paedagogische-psychologie-und-diagnostik/mitglieder/ ![Universität Hildesheim](https://jazznbass.github.io//dynamik-homepage/assets/images/logos/Universität_Hildesheim_logo.svg.png){: .align-right}
+[Universität Hildesheim]: https://www.uni-hildesheim.de/fb1/institute/psychologie/arbeitsgruppen/paedagogische-psychologie-und-diagnostik/mitglieder/ ![Universität Hildesheim](https://jazznbass.github.io//dynamik-homepage/assets/images/logos/Universität_Hildesheim.png){: .align-right}
 [Universität Potsdam]: https://www.uni-potsdam.de/de/inklusion/forschungsmethodenunddiagnostik/wilbert.html "Inklusionspädagogik Uni Potsdam"! [Universtiät Potsdam](https://jazznbass.github.io//dynamik-homepage/assets/images/logos/Potsdam.jpg){: .align-right}
 
 [Bundesministerium für Bildung und Forschung]: https://www.bmbf.de "Bundesministerium für Bildung und Forschung"
