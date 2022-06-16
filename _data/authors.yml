@@ -285,39 +285,7 @@ Fiona Ladisch:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  
-Henrieke Lorenz:
-  name             : "Henrieke Lorenz"
-  avatar           : 
-  bio              : Sie studiert an der Unviersität Hildesheim und ist als studentische Mitarbeiterin im DYNAMIK Projekt beschäftigt. 
-  location         : "Hildesheim"
-  email            : "lorenzh@uni-hildesheim.de"
-  uri              : 
-  home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           :
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  
+   
 Prof. Dr. Claudia Mähler:
   name             : "Prof. Dr. Claudia Mähler"
   avatar           : "assets/images/authors/maehler.jpg"
