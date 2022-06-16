@@ -18,7 +18,7 @@ Das Projekt teilt sich in folgende Schritte:
 ### 2. Schulhalbjahr 2022/2023: 
 Durchführung einer dynamischen Testung durch die Lehrperson
 
-
+![Projektablauf](https://jazznbass.github.io//dynamik-homepage/assets/images/Zeitplan DYNAMIK.jpg)
 
 ![Bundesministerium für Bildung und Forschung](https://jazznbass.github.io//dynamik-homepage/assets/images/logos/BmBF-Logo_kleiner_50.jpg){: .align-right}
 Die DYNAMIK-Studie ist ein Projekt, welches vom Bundesministerium für Bildung und Forschung finanziert wird.
