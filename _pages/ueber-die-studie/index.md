@@ -35,4 +35,4 @@ Wir danken Ihnen für Ihr Interesse!
 
 Die DYNAMIK-Studie ist ein Projekt, welches vom Bundesministerium für Bildung und Forschung finanziert wird. 
 
-![Bundesministerium für Bildung und Forschung](https://dynamik-projekt-de//assets/images/logos/BmBF-Logo_kleiner_50.jpg)
+![Bundesministerium für Bildung und Forschung](https://jazznbass.github.io//dynamik-homepage/assets/images/logos/BmBF-Logo_kleiner_50.jpg)
