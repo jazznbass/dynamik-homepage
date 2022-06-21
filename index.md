@@ -27,7 +27,9 @@ Weitere Informationen finden Sie unter:  [Über die Studie](https://jazznbass.gi
 ## Weitere Informationen
 [Vorteile für teilnehmende Schulen und Lehrkräfte](https://jazznbass.github.io/dynamik-homepage/ueber-die-studie/vorteile/)
 
-### Zum Vorgehen des dynamischen Testens (*im mathematischen Bereich)
+### Zum Vorgehen des dynamischen Testens 
+(*Literatur zum dynamischen Testen im mathematischen Bereich ist mit einem Stern gekennzeichnet.)
+
 *Aunola, K., Leskinen, E., Lerkkanen, M.-K., & Nurmi, J.-E. (2004). Developmental dynamics of math performance from preschool to grade two. Journal of Educational Psychology. 96(4). 699–713. https://doi.org/10.1037/0022-0663.96.4.699
 
 Börnert-Ringleb, M., & Wilbert, J. (2016). Dynamisches Testen als neue Perspektive in der sonderpädagogischen Diagnostik—Theorie. Evidenzen. Impulse für Forschung und Praxis. Zeitschrift für Heilpädagogik. 67. 156–167.
