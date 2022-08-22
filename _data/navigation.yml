@@ -16,7 +16,7 @@ ueber-die-studie:
   - title: "Vorteile für teilnehmende Schulen"
     url: /ueber-die-studie/vorteile/
   - title: "Informationen zur Teilnahme"
-    url: /ueber-die-studie/studieninfos/
+    url: https://github.com/jazznbass/dynamik-homepage/blob/cab03dd4bde47d2411a45ceeba0060023787b3a4/_pages/ueber-die-studie/studieninfos.md
   - title: "Wissenschaftlicher Hintergrund"
     url: /ueber-die-studie/wissenschaftlicher-hintergrund/
 
