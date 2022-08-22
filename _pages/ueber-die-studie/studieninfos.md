@@ -1,6 +1,6 @@
 ---
 title: Informationen zur Studienteilnahme
-permalink: /ueber-die-studie/studieninfos
+permalink: /ueber-die-studie/studieninfos/
 sidebar:
   nav: "ueber-die-studie"
 ---
