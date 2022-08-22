@@ -11,7 +11,7 @@ Alle Informationen zum Studienteilnahme und zum Datenschutz finden Sie anbei.
 
 ### Standort Berlin Brandenburg (Universität Potsdam)
 
-![Datenschutzinformationen für Kinder](/assets/images/Datenschutz Kinder.pdf) 
+![Datenschutzinformationen für Kinder](https://jazznbass.github.io//dynamik-homepage/assets/images/Datenschutz Kinder.pdf)
 
 ![Teilnahmeinformationen für Kinder]
 
