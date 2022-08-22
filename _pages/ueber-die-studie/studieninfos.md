@@ -11,14 +11,14 @@ Alle Informationen zum Studienteilnahme und zum Datenschutz finden Sie anbei.
 
 ### Standort Berlin Brandenburg (Universität Potsdam)
 
-![Datenschutzinformationen für Kinder](https://jazznbass.github.io//dynamik-homepage/assets/images/Datenschutz Kinder.pdf)
+![Datenschutzinformationen für Kinder]
 
 ![Teilnahmeinformationen für Kinder]
 
 
 ![Datenschutzinformationen für Lehrpersonen]
 
-![Teilnahmeinformationen für Lehrpersonen]
+![Teilnahmeinformationen für Lehrpersonen](https://jazznbass.github.io//dynamik-homepage/assets/images/StudieninfoLehrperson.pdf)
 
 ### Standort Niedersachsen (Universitäten Hannover und Hildesheim)
 
