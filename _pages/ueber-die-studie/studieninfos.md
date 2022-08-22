@@ -10,6 +10,7 @@ sidebar:
 Alle Informationen zum Studienteilnahme und zum Datenschutz finden Sie anbei.
 
 ###Standort Berlin Brandenburg (Universität Potsdam)
+
 -![Datenschutzinformationen für Kinder] 
 
 -![Teilnahmeinformationen für Kinder]
