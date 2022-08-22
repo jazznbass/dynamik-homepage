@@ -11,22 +11,22 @@ Alle Informationen zum Studienteilnahme und zum Datenschutz finden Sie anbei.
 
 ### Standort Berlin Brandenburg (Universität Potsdam)
 
--![Datenschutzinformationen für Kinder] 
+![Datenschutzinformationen für Kinder] 
 
--![Teilnahmeinformationen für Kinder]
+![Teilnahmeinformationen für Kinder]
 
 
--![Datenschutzinformationen für Lehrpersonen]
+![Datenschutzinformationen für Lehrpersonen]
 
--![Teilnahmeinformationen für Lehrpersonen]
+![Teilnahmeinformationen für Lehrpersonen]
 
 ### Standort Niedersachsen (Universitäten Hannover und Hildesheim)
 
--Datenschutzinformationen für Kinder
+- Datenschutzinformationen für Kinder
 
--Teilnahmeinformationen für Kinder
+- Teilnahmeinformationen für Kinder
 
 
--Datenschutzinformationen für Lehrpersonen
+- Datenschutzinformationen für Lehrpersonen
 
--Teilnahmeinformationen für Lehrpersonen
+- Teilnahmeinformationen für Lehrpersonen
