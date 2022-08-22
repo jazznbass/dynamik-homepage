@@ -21,6 +21,7 @@ Alle Informationen zum Studienteilnahme und zum Datenschutz finden Sie anbei.
 -![Teilnahmeinformationen für Lehrpersonen]
 
 ###Standort Niedersachsen (Universitäten Hannover und Hildesheim)
+
 -Datenschutzinformationen für Kinder
 
 -Teilnahmeinformationen für Kinder
