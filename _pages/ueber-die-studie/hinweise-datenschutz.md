@@ -1,6 +1,6 @@
 ---
 title: Informationen zur Studienteilnahme
-permalink: /ueber-die-studie/dynamisches-testen/hinweise-datenschutz
+permalink: /ueber-die-studie/hinweise-datenschutz
 sidebar:
   nav: "ueber-die-studie"
 ---
