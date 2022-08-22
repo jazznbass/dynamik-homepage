@@ -18,7 +18,7 @@ Alle Informationen zum Studienteilnahme und zum Datenschutz finden Sie anbei.
 
 ![Datenschutzinformationen für Lehrpersonen]
 
-![Teilnahmeinformationen für Lehrpersonen](https://jazznbass.github.io//dynamik-homepage/assets/images/StudieninfoLehrperson.pdf)
+![Teilnahmeinformationen für Lehrpersonen](https://github.com/jazznbass/dynamik-homepage/blob/b2825bc6839dac32a049984026e22a37cc879712/assets/images/StudieninfoLehrpersonen.pdf) 
 
 ### Standort Niedersachsen (Universitäten Hannover und Hildesheim)
 
