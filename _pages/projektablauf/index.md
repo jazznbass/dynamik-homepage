@@ -11,7 +11,8 @@ toc_label: Teilbereiche des Projekts
 toc_icon: "puzzle-piece"
 ---
 Das Projekt teilt sich in 2 Erhebungswellen.
-Erhebungswelle 2:
+
+## Erhebungswelle 2:
 ### 2. Schulhalbjahr 2022/2023 (2.Klasse): 
 Auswahl der Kinder und statusdiagnostische Erhebung der Ausgangslage
 
@@ -22,7 +23,7 @@ Auswahl der Kinder und statusdiagnostische Erhebung der Ausgangslage
 ![Projektablauf](https://jazznbass.github.io//dynamik-homepage/assets/images/ablauf_erhebung_2.png)
  
 
-Erhebungswelle 1:
+## Erhebungswelle 1:
 ### 1. Schulhalbjahr 2022/2023 (3.Klasse): 
 1. Auswahl der Kinder und statusdiagnostische Erhebung der Ausgangslage
 2. Fortbildung der Lehrpersonen in Bezug auf die anzuwendenden Interventionen
