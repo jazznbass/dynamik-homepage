@@ -10,12 +10,24 @@ toc: true
 toc_label: Teilbereiche des Projekts
 toc_icon: "puzzle-piece"
 ---
-Das Projekt teilt sich in folgende Schritte:
-### 1. Schulhalbjahr 2022/2023: 
+Das Projekt teilt sich in 2 Erhebungswellen.
+Erhebungswelle 2:
+### 2. Schulhalbjahr 2022/2023 (2.Klasse): 
 1. Auswahl der Kinder und statusdiagnostische Erhebung der Ausgangslage
 2. Fortbildung der Lehrpersonen in Bezug auf die anzuwendenden Interventionen
 
-### 2. Schulhalbjahr 2022/2023: 
+### 1. Schulhalbjahr 2023/2024 (3.Klasse): 
+Durchführung einer dynamischen Testung durch die Lehrperson
+
+![Projektablauf](https://jazznbass.github.io//dynamik-homepage/assets/images/2022_08_09_Dyn_Zeitplan.png)
+ 
+
+Erhebungswelle 1:
+### 1. Schulhalbjahr 2022/2023 (3.Klasse): 
+1. Auswahl der Kinder und statusdiagnostische Erhebung der Ausgangslage
+2. Fortbildung der Lehrpersonen in Bezug auf die anzuwendenden Interventionen
+
+### 2. Schulhalbjahr 2022/2023 (3.Klasse):
 Durchführung einer dynamischen Testung durch die Lehrperson
 
 ![Projektablauf](https://jazznbass.github.io//dynamik-homepage/assets/images/2022_08_09_Dyn_Zeitplan.png)
