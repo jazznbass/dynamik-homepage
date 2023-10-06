@@ -12,7 +12,7 @@ Mit der Publikation erster Studienergebnisse wird im zweiten Halbjahr 2024 gerec
 ## Region Berlin-Brandenburg
 ![Universtät Potsdam](https://jazznbass.github.io//dynamik-homepage/assets/images/logos/Potsdam.jpg){: .align-right}
 
-Projektzeitraum: Schuljahr 2022/2023
+Projektzeitraum: Schuljahr 2022/2023 sowie 2023/2024 Zusatzerhebung
 Email des Teams <dynamik-huwi@uni-potsdam.de>
 
 [Lydia Küttner](mailto:dynamik-huwi@uni-potsdam.de)
@@ -23,7 +23,7 @@ Anschrift | Karl-Liebknecht-Str. 24/25, 14476 Potsdam OT Golm, Campus Golm, Haus
 
 ## Region Hannover
 ![Leibniz Universitaet Hannover](https://jazznbass.github.io//dynamik-homepage/assets/images/logos/Hannover.png){: .align-right}
-Projektzeitraum Schuljahr 2022/2023
+Projektzeitraum Schuljahr 2022/2023 sowie 2023/2024
 
 [Taina Gabriel](mailto:taina.gabriel@ifs.uni-hannover.de)
 
@@ -33,7 +33,7 @@ Anschrift | Schloßwender Straße 1 - Haus 1211 - Raum 206, 30159 Hannover
 
 ## Region Hildesheim
 ![Universitaet Hildesheim](https://jazznbass.github.io//dynamik-homepage/assets/images/logos/Universität_Hildesheim.png){: .align-right}
-Projektzeitraum Schuljahr 2022/2023
+Projektzeitraum Schuljahr 2022/2023 sowie 2023/2024
 
 [Alea Kreyes](mailto:kreyes@uni-hildesheim.de)
 
