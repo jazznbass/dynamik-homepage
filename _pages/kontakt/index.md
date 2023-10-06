@@ -25,9 +25,9 @@ Anschrift | Karl-Liebknecht-Str. 24/25, 14476 Potsdam OT Golm, Campus Golm, Haus
 ![Leibniz Universitaet Hannover](https://jazznbass.github.io//dynamik-homepage/assets/images/logos/Hannover.png){: .align-right}
 Projektzeitraum Schuljahr 2022/2023
 
-[Taina Gabriel](mailto:fiona.ladisch@ifs.uni-hannover.de)
+[Taina Gabriel](mailto:taina.gabriel@ifs.uni-hannover.de)
 
-Email | <taina.gabriel@ifs.uni-hannover.de e>
+Email | <taina.gabriel@ifs.uni-hannover.de>
 Telefon | +49 511 762 14069
 Anschrift | Schloßwender Straße 1 - Haus 1211 - Raum 206, 30159 Hannover
 
